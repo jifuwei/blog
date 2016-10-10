@@ -13,3 +13,4 @@
 ## 文章列表
 - [HttpClient深入浅出](./blog/2016/2016-10-04-HttpClient详解.md)
 - [Java命名规范](./blog/2016/2016-10-09-Java命名规范.md)
+- [SpringMVC集成JSR-303验证](./blog/2016/2016-10-10-SpringMVC集成JSR-303验证.md)
